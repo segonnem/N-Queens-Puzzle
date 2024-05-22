@@ -4,7 +4,7 @@
 
 
 
-Here are solutions for $N = 8$ and $N = 30$, respectively.
+Here are a solution for $N = 8$ and $N = 30$, respectively.
 
 <p style="margin: 0; display: flex; justify-content: center; align-items: center;">
   <img src="assets/images/8_Queens_Puzzle.png" alt="8 Queens Puzzle" width="300" style="margin: 0; padding-right: 0px;">
